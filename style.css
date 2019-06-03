@@ -1,0 +1,54 @@
+
+.banner img {
+  width: 100%;
+  height: 30%;
+  padding-top: 0px;
+  margin-top: -20px;
+}
+#about{
+  width: 50%;
+  height: 60px;
+    margin-top: -20px;
+}
+.thumbnail {
+    border: 0 none;
+    box-shadow: none;
+}
+.caption{
+  padding-top: -30px;
+  text-align:center;
+}
+#carouselExampleControls{
+  width:100%;
+  height:120%;
+}
+html {
+  scroll-behavior: smooth;
+}
+/* Make sure that padding behaves as expected */
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+#graph {
+  width: 100%; /* Full width */
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding: 10px; /* Add some padding */
+  color: white; /* White text color */
+}
+
+.html {width: 90%;
+  background-color: #4CAF50;}
+.css {width: 60%;
+  background-color: #2196F3;} /* Blue */
+.js {width: 45%;
+   background-color: #f44336;} /* Red */
+
+.skills1{
+  width:95%;
+  height:120%;
+  margin-left:-15px;
+  margin-top:25px;
+}
